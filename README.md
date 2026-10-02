@@ -27,6 +27,6 @@ The complete learning guide is available in:
 
 ---
 
-### Internship Task
+Internship Task
 
-Completed as part of my learning journey with **InAmigos Foundation**.
+Completed as part of my learning journey with @InAmigosFoundation.
